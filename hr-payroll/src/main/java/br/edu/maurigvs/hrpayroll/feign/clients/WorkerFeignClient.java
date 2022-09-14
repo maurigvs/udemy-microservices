@@ -1,4 +1,4 @@
-package br.edu.maurigvs.hrpayroll.feignClients;
+package br.edu.maurigvs.hrpayroll.feign.clients;
 
 import br.edu.maurigvs.hrpayroll.entities.Worker;
 import org.springframework.cloud.openfeign.FeignClient;
